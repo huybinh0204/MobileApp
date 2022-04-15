@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomStatusBar should match the snapshot 1`] = `
+<View
+  backgroundColor="#ECF6EA"
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#ECF6EA",
+        "height": null,
+      },
+      undefined,
+    ]
+  }
+>
+  <RNCSafeAreaView
+    edges={
+      Array [
+        "top",
+      ]
+    }
+  />
+</View>
+`;

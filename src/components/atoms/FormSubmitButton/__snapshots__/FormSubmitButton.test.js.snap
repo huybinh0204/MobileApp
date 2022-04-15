@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormSubmitButton structure should match the snapshot 1`] = `
+<View
+  accessibilityState={
+    Object {
+      "disabled": false,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignSelf": "stretch",
+      "backgroundColor": "#3D3397",
+      "borderRadius": 10,
+      "opacity": 1,
+      "paddingHorizontal": 45.5,
+      "paddingVertical": 31,
+    }
+  }
+>
+  <Text
+    allowFontScaling={false}
+    disabled={false}
+    style={
+      Array [
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "Poppins-SemiBold",
+          "fontSize": 25.5,
+          "lineHeight": 35.5,
+          "textAlign": "center",
+        },
+        undefined,
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;

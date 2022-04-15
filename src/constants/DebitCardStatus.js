@@ -1,0 +1,5 @@
+export default {
+  READY_TO_ACTIVATE: 'READY_TO_ACTIVATE',
+  ACTIVE: 'ACTIVE',
+  UNKNOWN: 'UNKNOWN',
+};

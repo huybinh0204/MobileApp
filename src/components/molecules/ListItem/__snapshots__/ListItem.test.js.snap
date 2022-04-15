@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListItem should match the snapshot 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "flexDirection": "row",
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "marginRight": 29,
+          },
+          undefined,
+        ]
+      }
+      testID="LeftIcon"
+    >
+      <SvgMock
+        height={54.5}
+        width={54.5}
+      />
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "width": "100%",
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        color="#3D3397"
+        numberOfLines={1}
+        style={
+          Array [
+            Object {
+              "color": "#3D3397",
+              "fontFamily": "Poppins-SemiBold",
+              "fontSize": 25.5,
+              "lineHeight": 35.5,
+              "width": "80%",
+            },
+            undefined,
+          ]
+        }
+      >
+        List Item
+      </Text>
+    </View>
+  </View>
+</View>
+`;

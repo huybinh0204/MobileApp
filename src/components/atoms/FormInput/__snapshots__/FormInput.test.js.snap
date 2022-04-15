@@ -1,0 +1,123 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FromInput should match the snapshot 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "marginBottom": 87,
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "borderRadius": 6,
+          "borderWidth": 2,
+          "flexDirection": "row",
+          "width": "100%",
+          "zIndex": 0,
+        },
+        Object {
+          "borderColor": undefined,
+        },
+      ]
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          309817028,
+          318208316,
+        ]
+      }
+      endPoint={
+        Object {
+          "x": 0.75,
+          "y": 0.5,
+        }
+      }
+      locations={null}
+      startPoint={
+        Object {
+          "x": 0.25,
+          "y": 0.5,
+        }
+      }
+      style={
+        Array [
+          Object {
+            "borderRadius": 6,
+            "height": "100%",
+            "position": "absolute",
+            "width": "100%",
+            "zIndex": 1,
+          },
+          Object {
+            "opacity": undefined,
+          },
+        ]
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      onLayout={[Function]}
+      style={
+        Array [
+          Object {
+            "bottom": 0,
+            "fontFamily": "Poppins",
+            "fontSize": 29,
+            "left": 25.5,
+            "lineHeight": 40,
+            "position": "absolute",
+            "zIndex": 2,
+          },
+          Object {
+            "color": undefined,
+            "transform": Array [
+              Object {
+                "translateY": undefined,
+              },
+              Object {
+                "translateX": undefined,
+              },
+              Object {
+                "scale": undefined,
+              },
+            ],
+          },
+        ]
+      }
+    >
+      test
+    </Text>
+    <TextInput
+      onBlur={[Function]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      style={
+        Array [
+          Object {
+            "color": "#1F1D25",
+            "flex": 1,
+            "fontFamily": "Poppins-SemiBold",
+            "fontSize": 29,
+            "lineHeight": 40,
+            "paddingBottom": 18,
+            "paddingHorizontal": 25.5,
+            "paddingTop": 43.5,
+            "zIndex": 3,
+          },
+          undefined,
+        ]
+      }
+      value=""
+    />
+  </View>
+</View>
+`;

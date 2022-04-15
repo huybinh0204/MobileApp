@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BaseFormInput should match the snapshot 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderBottomColor": "#3D3397",
+        "borderBottomWidth": 1,
+        "flexDirection": "row",
+        "width": "100%",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Array [
+        Object {
+          "paddingLeft": 14.5,
+        },
+        undefined,
+      ]
+    }
+  >
+    <SvgMock
+      height={58}
+      width={58}
+    />
+  </View>
+  <TextInput
+    allowFontScaling={false}
+    paddingLeft={true}
+    paddingRight={false}
+    placeholderTextColor="#D4D7DB"
+    style={
+      Array [
+        Object {
+          "flex": 1,
+          "fontFamily": "Poppins",
+          "fontSize": 29,
+          "lineHeight": 40,
+          "paddingLeft": 29,
+          "paddingRight": 14.5,
+          "paddingVertical": 29,
+        },
+        undefined,
+      ]
+    }
+    value="test"
+  />
+</View>
+`;

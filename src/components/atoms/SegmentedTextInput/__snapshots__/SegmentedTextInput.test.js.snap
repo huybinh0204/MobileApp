@@ -1,0 +1,450 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SegmentedTextInput should match the snapshot 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+    }
+  }
+>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "borderColor": "#D4D7DB",
+          "borderRadius": 6,
+          "borderWidth": 2,
+          "zIndex": 0,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#1F1D25",
+            "fontFamily": "Poppins",
+            "fontSize": 36,
+            "height": 136,
+            "lineHeight": 87,
+            "paddingTop": 29,
+            "textAlign": "center",
+            "width": 87,
+          },
+          undefined,
+        ]
+      }
+    >
+      v
+    </Text>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "borderColor": "#D4D7DB",
+          "borderRadius": 6,
+          "borderWidth": 2,
+          "zIndex": 0,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#1F1D25",
+            "fontFamily": "Poppins",
+            "fontSize": 36,
+            "height": 136,
+            "lineHeight": 87,
+            "paddingTop": 29,
+            "textAlign": "center",
+            "width": 87,
+          },
+          undefined,
+        ]
+      }
+    >
+      a
+    </Text>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "borderColor": "#D4D7DB",
+          "borderRadius": 6,
+          "borderWidth": 2,
+          "zIndex": 0,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#1F1D25",
+            "fontFamily": "Poppins",
+            "fontSize": 36,
+            "height": 136,
+            "lineHeight": 87,
+            "paddingTop": 29,
+            "textAlign": "center",
+            "width": 87,
+          },
+          undefined,
+        ]
+      }
+    >
+      l
+    </Text>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "borderColor": "#D4D7DB",
+          "borderRadius": 6,
+          "borderWidth": 2,
+          "zIndex": 0,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#1F1D25",
+            "fontFamily": "Poppins",
+            "fontSize": 36,
+            "height": 136,
+            "lineHeight": 87,
+            "paddingTop": 29,
+            "textAlign": "center",
+            "width": 87,
+          },
+          undefined,
+        ]
+      }
+    >
+      u
+    </Text>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "borderColor": "#D4D7DB",
+          "borderRadius": 6,
+          "borderWidth": 2,
+          "zIndex": 0,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#1F1D25",
+            "fontFamily": "Poppins",
+            "fontSize": 36,
+            "height": 136,
+            "lineHeight": 87,
+            "paddingTop": 29,
+            "textAlign": "center",
+            "width": 87,
+          },
+          undefined,
+        ]
+      }
+    >
+      e
+    </Text>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "borderColor": "#D4D7DB",
+          "borderRadius": 6,
+          "borderWidth": 2,
+          "zIndex": 0,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#1F1D25",
+            "fontFamily": "Poppins",
+            "fontSize": 36,
+            "height": 136,
+            "lineHeight": 87,
+            "paddingTop": 29,
+            "textAlign": "center",
+            "width": 87,
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "color": "#BFC4C8",
+            },
+            undefined,
+          ]
+        }
+      >
+        X
+      </Text>
+    </Text>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "borderColor": "#D4D7DB",
+          "borderRadius": 6,
+          "borderWidth": 2,
+          "zIndex": 0,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#1F1D25",
+            "fontFamily": "Poppins",
+            "fontSize": 36,
+            "height": 136,
+            "lineHeight": 87,
+            "paddingTop": 29,
+            "textAlign": "center",
+            "width": 87,
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "color": "#BFC4C8",
+            },
+            undefined,
+          ]
+        }
+      >
+        X
+      </Text>
+    </Text>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "borderColor": "#D4D7DB",
+          "borderRadius": 6,
+          "borderWidth": 2,
+          "zIndex": 0,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#1F1D25",
+            "fontFamily": "Poppins",
+            "fontSize": 36,
+            "height": 136,
+            "lineHeight": 87,
+            "paddingTop": 29,
+            "textAlign": "center",
+            "width": 87,
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "color": "#BFC4C8",
+            },
+            undefined,
+          ]
+        }
+      >
+        X
+      </Text>
+    </Text>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "borderColor": "#D4D7DB",
+          "borderRadius": 6,
+          "borderWidth": 2,
+          "zIndex": 0,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#1F1D25",
+            "fontFamily": "Poppins",
+            "fontSize": 36,
+            "height": 136,
+            "lineHeight": 87,
+            "paddingTop": 29,
+            "textAlign": "center",
+            "width": 87,
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "color": "#BFC4C8",
+            },
+            undefined,
+          ]
+        }
+      >
+        X
+      </Text>
+    </Text>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "borderColor": "#D4D7DB",
+          "borderRadius": 6,
+          "borderWidth": 2,
+          "zIndex": 0,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#1F1D25",
+            "fontFamily": "Poppins",
+            "fontSize": 36,
+            "height": 136,
+            "lineHeight": 87,
+            "paddingTop": 29,
+            "textAlign": "center",
+            "width": 87,
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "color": "#BFC4C8",
+            },
+            undefined,
+          ]
+        }
+      >
+        X
+      </Text>
+    </Text>
+  </View>
+  <TextInput
+    autoCapitalize="characters"
+    autoCorrect={false}
+    blurOnSubmit={false}
+    caretHidden={true}
+    clearButtonMode="never"
+    disableFullscreenUI={true}
+    maxLength={10}
+    onBlur={[Function]}
+    onChangeText={[Function]}
+    onFocus={[Function]}
+    onPressOut={[Function]}
+    spellCheck={false}
+    style={
+      Object {
+        "bottom": 0,
+        "fontSize": 1,
+        "left": 0,
+        "opacity": 0.01,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    underlineColorAndroid="transparent"
+    value="value"
+  />
+</View>
+`;

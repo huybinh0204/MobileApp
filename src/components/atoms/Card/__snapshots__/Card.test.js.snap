@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card should match the snapshot 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignSelf": "stretch",
+        "backgroundColor": "#FFFFFF",
+        "borderColor": "#F2F3F4",
+        "borderRadius": 10,
+        "borderWidth": 0,
+        "padding": 29,
+        "shadowColor": "#362E60",
+        "shadowOffset": Object {
+          "height": 7,
+          "width": 0,
+        },
+        "shadowOpacity": 0.1,
+        "shadowRadius": 10,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    allowFontScaling={false}
+  >
+    test
+  </Text>
+</View>
+`;

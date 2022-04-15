@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GeneralContainer structure should match the snapshot for GeneralContainer 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#FAFAFA",
+        "flex": 1,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    allowFontScaling={false}
+  >
+    content
+  </Text>
+  ,
+</RCTSafeAreaView>
+`;

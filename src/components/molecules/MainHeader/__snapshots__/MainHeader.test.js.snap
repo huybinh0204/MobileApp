@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainHeader structure should match the snapshot 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "height": 108.5,
+        "justifyContent": "center",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "left": 36,
+        "opacity": 1,
+        "position": "absolute",
+        "zIndex": 10,
+      }
+    }
+    testID="MenuButton"
+  >
+    <SvgMock
+      height={54.5}
+      width={54.5}
+    />
+  </View>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": "#1F1D25",
+          "fontFamily": "Poppins-SemiBold",
+          "fontSize": 29,
+          "lineHeight": 40,
+        },
+        undefined,
+      ]
+    }
+  >
+    title
+  </Text>
+</View>
+`;

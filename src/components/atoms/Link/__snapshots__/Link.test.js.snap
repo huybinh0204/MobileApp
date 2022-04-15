@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link should match the snapshot 1`] = `
+<Text
+  allowFontScaling={false}
+  onPress={[Function]}
+  wrapperProps={null}
+>
+  my-phone-number
+</Text>
+`;

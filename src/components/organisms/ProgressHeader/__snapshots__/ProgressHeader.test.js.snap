@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProgressHeader should match the snapshot 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "height": 108.5,
+        "justifyContent": "center",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "left": 36,
+        "opacity": 1,
+        "position": "absolute",
+        "zIndex": 10,
+      }
+    }
+    testID="BackButton"
+  >
+    <SvgMock
+      height={45.5}
+      width={45.5}
+    />
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "width": "50%",
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "#F2F3F4",
+            "borderColor": "#000000",
+            "borderRadius": 10,
+            "height": 9,
+            "width": "100%",
+          },
+          undefined,
+        ]
+      }
+    >
+      <View
+        collapsable={false}
+        style={
+          Object {
+            "backgroundColor": "#3D3397",
+            "borderRadius": 10,
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": "0%",
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
